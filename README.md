@@ -28,9 +28,12 @@
 <!-- About me  -->
 ## 👋About Me
 Hi! I'm Olivia Scalenghe, a fullstack web developer from Connecticut, and part-time variety streamer on Twitch. I enjoy video games, listening to rock music and screenwriting in my free time. 
-    
+   
+
 ## 📂Portfolio
  Coming Soon!
+
+ 
   <!-- Languages and Tools  -->
 ## 🛠️Languages and Tools
 <p align="center">
@@ -38,7 +41,10 @@ Hi! I'm Olivia Scalenghe, a fullstack web developer from Connecticut, and part-t
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,express,git,graphql,heroku,jest,jquery,materialui,mongodb,mysql,nodejs,php,react,sass,sequelize,tailwind,unreal&perline=5" />
   </a>
 </p>
-
+ <div align="center">
+      <img src="https://media.giphy.com/media/CAM1sOA4pKGuzKlIPt/giphy.gif" width="100"/>
+     </div>
+     
 ## 🔥My Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
