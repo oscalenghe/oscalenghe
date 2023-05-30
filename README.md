@@ -1,20 +1,4 @@
 
-
-<!--
-**oscalenghe/oscalenghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- HEADER -->
 <div id="header" align="center">
 <!--  gif  -->
@@ -42,16 +26,35 @@ Here are some ideas to get you started:
   </div>
 
 <!-- About me  -->
-## :wave:About Me
-- Hi! I'm Olivia Scalenghe, a fullstack web developer from Connecticut, and part-time variety streamer on Twitch.
-- I enjoy video games, rock music and screenwriting. 
+## 👋About Me
+Hi! I'm Olivia Scalenghe, a fullstack web developer from Connecticut, and part-time variety streamer on Twitch. I enjoy video games, listening to rock music and screenwriting in my free time. 
     
- 
+## 📂Portfolio
+ Coming Soon!
   <!-- Languages and Tools  -->
-## :hammer_and_wrench:Languages and Tools
+## 🛠️Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,express,git,graphql,heroku,jest,jquery,materialui,mongodb,mysql,nodejs,php,react,sass,sequelize,tailwind,unreal&perline=5" />
+  </a>
+</p>
+
+## 🔥My Stats
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscalenghe&layout=compact&theme=vision-friendly-dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=oscalenghe&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=oscalenghe&theme=gotham" />
   </a>
 </p>
 
