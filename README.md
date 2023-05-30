@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- HEADER -->
 <div id="header" align="center">
 <!--  gif  -->
   <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="100"/>
@@ -29,11 +31,27 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=oscalenghe&style=flat-square&color=blue" alt="Profile Views"/
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=oscalenghe&style=flat-square&color=blue" alt="Profile Views">
 </div>
+<!--  view counter  -->
   <div>
       <img src="https://media.giphy.com/media/ZOkURrKi3HG5VbeoBf/giphy.gif" width="100"/>
+ </div>
   </div>
-  
-  
+
+<!-- About me  -->
+## :wave:About Me
+- Hi! I'm Olivia Scalenghe, a fullstack web developer from Connecticut, and part-time variety streamer on Twitch.
+- I enjoy video games, rock music and screenwriting. 
+    
+ 
+  <!-- Languages and Tools  -->
+## :hammer_and_wrench:Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,express,git,graphql,heroku,jest,jquery,materialui,mongodb,mysql,nodejs,php,react,sass,sequelize,tailwind,unreal&perline=5" />
+  </a>
+</p>
 
