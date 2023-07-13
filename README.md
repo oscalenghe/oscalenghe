@@ -31,7 +31,7 @@ Hi! I'm Olivia Scalenghe, a fullstack web developer from Connecticut, and part-t
    
 
 ## 📂Portfolio
- Coming Soon!
+Click [here](https://oliviascalenghe.carrd.co/) to view my portfolio!
 
  
   <!-- Languages and Tools  -->
